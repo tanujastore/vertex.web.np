@@ -1,0 +1,6 @@
+{
+  "name": "Web Design Agency Listing",
+  "description": "A professional landing page and interactive platform for a local web design and development service agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
